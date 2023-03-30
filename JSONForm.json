@@ -1,5 +1,5 @@
 {
-  id: guidGenerator(),
+  id: "guidGenerator()",
   titleES: "¿Qué dos cosas debe hacer el Scrum Team durante el primer Sprint?",
   titleEN: "Which two things should the Scrum Team do during the first Sprint?",
   commentES: "El corazón de Scrum es un Sprint, que es un mes o menos durante el cual se crea un Incremento de producto valioso, utilizable y terminado. Esto se aplica a todos los Sprint.",
